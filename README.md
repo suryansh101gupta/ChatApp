@@ -42,7 +42,7 @@ Chat-App/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Patel045/Chat-App.git
+git clone https://github.com/suryansh101gupta/ChatApp.git
 cd Chat-App
 ```
 
