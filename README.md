@@ -4,7 +4,6 @@
 
 The application leverages Boost.Asio’s **non-blocking I/O model** to ensure scalability, responsiveness, and efficient real-time communication between multiple connected clients.
 
-📘 **Documentation**: https://patel045.github.io/Chat-App-Documentation/
 
 ---
 
